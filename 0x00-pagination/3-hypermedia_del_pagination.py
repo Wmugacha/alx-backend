@@ -70,4 +70,3 @@ class Server:
         }
 
         return hyper
-
