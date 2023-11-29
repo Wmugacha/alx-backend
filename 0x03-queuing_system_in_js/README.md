@@ -1,6 +1,6 @@
 ## Project 0x03. Queuing System in JS
 
-### Learning Objectives
+## Learning Objectives
 
 * How to run a Redis server on your machine
 
